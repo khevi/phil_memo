@@ -1,1 +1,3 @@
 THis is Stash lecture, change in file2
+I' m adding this text file to check how i'm doing with git
+I' am adding a new one 
